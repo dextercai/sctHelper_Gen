@@ -1,0 +1,2 @@
+# sctHelper_Gen
+一个由sctHelper地面扇助手制作的Euroscope地面扇区数据
