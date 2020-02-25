@@ -1,4 +1,4 @@
-#define gndApronOutline 5263440
+#define gndApron 5263440
 #define gndGrass 3166213
 #define gndParkingHeadingSign 200
 #define gndRunway 2829099

@@ -1,4 +1,3 @@
-#define gndTaxiLineBySctHelper 7895160
 #define gndTaxi 7895160
 [GEO]
 N034.03.29.377 E117.32.17.499 N034.03.23.553 E117.32.18.136 gndTaxi
