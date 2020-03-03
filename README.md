@@ -1,6 +1,5 @@
 # sctHelper_Gen
-一个由sctHelper地面扇助手制作的Euroscope地面扇区数据
-
+一个由sctHelper地面扇助手制作的Euroscope地面扇区数据（自制）
 # 使用 How TO USE?
 每一个机场文件夹中含有FREETEXT,GEO,REGION三个数据文件，其中FREETEXT一般需要加入ese文件中，其余两个文件需要加入到sct文件的[GEO]和[Region]块中。
 一般由VatPRC发布的情报区扇中，ese文件与sct文件均位于 \XXXX FIR VATPRC\Data\Public\Sectors 下可见。
